@@ -10,5 +10,5 @@
 - vanilla CSS  
 - custom CSS properties  
   
-Live Site URL:  
-Repository URL:   
+Live Site URL: https://chriscablish.github.io/Workit-landing-page/  
+Repository URL: https://github.com/ChrisCablish/Workit-landing-page  
